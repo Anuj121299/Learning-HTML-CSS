@@ -4,18 +4,19 @@ body{
 .head1{
     background-color: bisque;
     color: tomato;
-    font-size: 50px;
+    /* font-size: 50px; */
     font-style: italic;
     text-decoration: underline;
     text-decoration-style: wavy ;
     text-decoration-color:orange  ;
+    text-align: center;
 }
 .para{
     color:blueviolet;
     font-family:  sans-serif;
     font-size: 20px;
-    /* word-spacing: 20px;
-    letter-spacing: 10px; */
+    word-spacing: 20px;
+    /* letter-spacing: 10px; */
     /* line-height: 140px; */
     font-weight: bold;
     text-shadow: 4px 5px 7px green;
