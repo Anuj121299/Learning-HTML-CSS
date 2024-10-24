@@ -9,7 +9,14 @@
     border-top: 20px double green;
     border-bottom: 20px double blue;
     /* border-radius: 40px; */
-    border-top-left-radius: 40px;
-
-    
+    border-top-left-radius: 40px; 
+}
+.square{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    box-shadow: 4px 5px 12px 6px green;
+    /* margin-top: 30px;
+    margin-left: 30px; */
+    margin: 30px;
 }
