@@ -1,0 +1,20 @@
+.Cont{
+    border: 2px solid ;
+    padding-bottom: 20px;
+    width: 50%;
+    align-self: center;
+    text-align: center;
+    margin: 150px;
+}
+.face{
+    color: blue;
+}
+.whats{
+    color: green;
+}
+.insta{
+    color: rgb(244, 21, 196);
+}
+.snap{
+    color: yellow;
+}
