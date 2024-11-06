@@ -1,0 +1,17 @@
+.main{
+    background-image: url(img/suske.jfif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.main h1 {
+    background-color: rgba(255, 25, 255, 0.651);
+
+}
+.img{
+    background-image: url(img/pexels-codioful-6985003.jpg);
+    height: 100vh;
+    background-size: cover
+}
