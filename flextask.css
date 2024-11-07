@@ -1,0 +1,21 @@
+.cont{
+    display: flex;
+    background-color: rgb(39, 113, 113);
+    justify-content: center;
+}
+.div1{
+    height: 200px;
+    width: 200px;
+    font-family: 'Courier New';
+    color: white;
+    margin: 20px;
+}
+.div2{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+.div1 button{
+    background-color: orangered;
+    color: white;
+}
