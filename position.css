@@ -1,0 +1,26 @@
+.container{
+    background-color: rgb(244, 183, 17);
+    height: 400px;
+    margin-top: 150px;
+}
+
+.ch{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    position: relative;
+    top: 20px;
+    right: -90px;
+
+}
+
+/* img{
+    position: fixed;
+    top: 80px;
+    right: 20px;
+} */
+
+img{
+    position: sticky;
+    top: 40px;
+}
