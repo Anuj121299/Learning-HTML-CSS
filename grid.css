@@ -1,0 +1,15 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    height: 100vh;  
+    grid-template-rows: 300px 500px; 
+    background-color: aqua;
+}
+.ch{
+    background-color: rgb(178, 178, 228);
+    border: 2px solid;
+}
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
