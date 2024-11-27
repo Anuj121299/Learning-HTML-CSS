@@ -1,0 +1,39 @@
+body{
+    background-color: red;
+}
+head{
+    font-size: 50px;
+}
+img{
+    width: 100%;
+}
+/* @media screen and (max-width:450px) {
+    body{
+        background-color: lightcoral;
+
+    }
+    .head{
+        font-size: 20px;
+    }
+} */
+
+
+/* @media screen and (min-width:600px) {
+    body{
+        background-color: cadetblue;
+    }
+    
+} */
+
+@media screen and (min-width: 400px) and (max-width: 800px) {
+    body{
+        background-color: aqua;
+    }
+    .head{
+        color: yellowgreen;
+    }
+    img{
+        width: 50%;
+    }
+    
+}
